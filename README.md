@@ -4,9 +4,9 @@
 
 ## Participantes
 
-# Datos
+## Datos
 ▪ Breve descripción del conjunto de datos (se puede adjuntar el archivo PDF).
 
-# Conclusiones
+## Conclusiones
 
-# Licencia de uso
+## Licencia de uso
